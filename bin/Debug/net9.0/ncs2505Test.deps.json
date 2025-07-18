@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "ncs2505Test/1.0.0": {
+        "runtime": {
+          "ncs2505Test.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ncs2505Test/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
