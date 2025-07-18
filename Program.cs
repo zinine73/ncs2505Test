@@ -2,7 +2,7 @@
 {
     private static void Main(string[] args)
     {
-        int i = 100;
+        int i = 1000;
 
         Console.WriteLine(i);
     }
