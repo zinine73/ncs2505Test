@@ -2,7 +2,8 @@
 {
     private static void Main(string[] args)
     {
-        int i = 65535;
+
+        int i = 8475;
 
         Console.WriteLine(i);
     }
